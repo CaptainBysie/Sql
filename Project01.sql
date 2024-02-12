@@ -114,3 +114,5 @@ where order_date>=join_date
 where order_date<='2021-01-31'
 group by customer_id
 order by customer_id;
+
+
